@@ -90,6 +90,14 @@ const Tech = () => {
        initial = "hidden"
        whileInView= "visible"
        transition = {{ duration: 0.5 }}>
+        <BiLogoPostgresql className="cursor-pointer text-[80px] text-[#1572B6] transition-all duration-300 hover:-translate-y-5 sm:text-[100px] md:text-[120px]" />
+        </motion.div>
+        
+
+        <motion.div variants={variants}
+       initial = "hidden"
+       whileInView= "visible"
+       transition = {{ duration: 0.5 }}>
         <BiLogoGit className="cursor-pointer text-[80px] text-[#F05032] transition-all duration-300 hover:-translate-y-5 sm:text-[100px] md:text-[120px]" />
         </motion.div>
 
@@ -122,6 +130,8 @@ const Tech = () => {
        transition = {{ duration: 0.5 }}>
         <BiLogoCss3 className="cursor-pointer text-[80px] text-[#1572B6] transition-all duration-300 hover:-translate-y-5 sm:text-[100px] md:text-[120px]" />
         </motion.div>
+
+        
         
         
         
