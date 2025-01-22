@@ -31,7 +31,7 @@ const Hero = () => {
           <p className="text-lg text-gray-400 md:text-xl">
             I am a full-stack web developer, and a passionate developer with a keen eye for detail and a strong desire to create meaningful experiences for users.
             <br />
-            I have worked on various projects, from small businesses to large corporations, and I am always eager to learn and grow.
+            I have worked on various projects, from small businesses , and I am always eager to learn and grow,  I am curently prusuing My Bachelor&apos;s degree at HSE Uinversity Moscow.
           </p>
         </motion.div>
       </div>

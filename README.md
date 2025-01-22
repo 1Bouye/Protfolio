@@ -28,6 +28,8 @@ The project is built using the following technologies:
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 - **Framer Motion**: A library for animations and gestures in React.
 - **React Icons**: A library for including popular icons in React projects.
+- **CSS**: Used for styling the web pages, along with Tailwind CSS.
+- **HTML**: Used for structuring the content of the web pages.
 
 ## Programming Languages
 
@@ -35,8 +37,8 @@ The project uses the following programming languages:
 
 - **JavaScript**: The primary language for building the React components.
 - **TypeScript**: Used in some projects to provide type safety and better development experience.
-- **HTML**: Used for structuring the content of the web pages.
-- **CSS**: Used for styling the web pages, along with Tailwind CSS.
+
+
 
 ## Features
 
@@ -72,7 +74,9 @@ After starting the development server, you can access the portfolio in your brow
 
 ## Project Structure
 
-The project structure is organized as follows:
+The project is organized as follows:
+
+```
 my-portfolio/
 ├── public/
 │   ├── 1.png
@@ -96,6 +100,7 @@ my-portfolio/
 ├── package.json
 ├── README.md
 └── vite.config.js
+```
 
 ## Contributing
 

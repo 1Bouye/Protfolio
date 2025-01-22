@@ -3,6 +3,7 @@ import { BsGithub, BsInstagram, BsLinkedin } from "react-icons/bs";
 import { SiVk } from "react-icons/si";
 import { BiX, BiMenu } from "react-icons/bi";
 
+
 const Navbar = () => {
 
   const [isOpen, setIsOpen] = useState(false);
@@ -86,15 +87,19 @@ const Navbar = () => {
           </ul>
 
           <ul className=" flex flex-wrap gap-5">
+            
             <li className="cursor-pointer text-xl opacity-70 transition-all duration-300 hover:text-blue-500 hover:opacity-100">
               <SiVk />
             </li>
+            
             <li className="cursor-pointer text-xl opacity-70 transition-all duration-300 hover:text-red-500 hover:opacity-100">
               <BsInstagram />
             </li>
-            <li className="cursor-pointer text-xl opacity-70 transition-all duration-300 hover:text-blue-500 hover:opacity-100">
-              <BsLinkedin />
-            </li>
+            
+              <li className="cursor-pointer text-xl opacity-70 transition-all duration-300 hover:text-blue-500 hover:opacity-100">
+                <BsLinkedin />
+              </li>
+            
             <li className="cursor-pointer text-xl opacity-70 transition-all duration-300 hover:text-orange-500 hover:opacity-100">
               <BsGithub />
             </li>
