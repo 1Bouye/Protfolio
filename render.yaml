@@ -1,5 +1,5 @@
 services:
-  - type: web
+  - type: static
     name: portfolio
     buildCommand: npm install && npm run build
     staticPublishPath: ./dist
