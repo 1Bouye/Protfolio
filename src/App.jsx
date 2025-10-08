@@ -6,7 +6,7 @@ import Education from "./components/Education";
 import Experience from "./components/Experience";
 import Tech from "./components/Tech";
 import Projects from "./components/Projects";
-import ContactComponent from "./components/Contact";
+import Contact from "./components/Contact";
 import LoadingAnimation from "./components/LoadingAnimation";
 import ErrorBoundary from "./components/ErrorBoundary";
 import { LanguageProvider } from "./contexts/LanguageContext";
@@ -27,7 +27,7 @@ function AppContent() {
         <Experience />
         <Tech />
         <Projects />
-        <ContactComponent />
+        <Contact />
       </main>
     </>
   );
