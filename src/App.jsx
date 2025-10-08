@@ -6,7 +6,7 @@ import Education from "./components/Education";
 import Experience from "./components/Experience";
 import Tech from "./components/Tech";
 import Projects from "./components/Projects";
-import Contact from "./components/Contact.jsx";
+import Contact from "./components/Contact.jsx"; // Force new deployment
 import LoadingAnimation from "./components/LoadingAnimation";
 import ErrorBoundary from "./components/ErrorBoundary";
 import { LanguageProvider } from "./contexts/LanguageContext";
