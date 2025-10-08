@@ -9,11 +9,9 @@ import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import LoadingAnimation from "./components/LoadingAnimation";
 import ErrorBoundary from "./components/ErrorBoundary";
-import { LanguageProvider, useLanguage } from "./contexts/LanguageContext";
+import { LanguageProvider } from "./contexts/LanguageContext";
 
 function AppContent() {
-  const { language } = useLanguage();
-  
   return (
     <>
       {/* Loading Animation */}
