@@ -1,6 +1,6 @@
 import profile from "/proji.jpg";
 import { motion, useScroll, useTransform, useSpring } from "framer-motion";
-import { BsArrowDown, BsGithub, BsLinkedin, BsEnvelope } from "react-icons/bs";
+import { BsArrowDown, BsGithub, BsLinkedin, BsInstagram, BsEnvelope } from "react-icons/bs";
 import { useTranslation } from '../hooks/useTranslation';
 
 const Hero = () => {
@@ -209,6 +209,7 @@ const Hero = () => {
                 {[
                   { href: "https://github.com/1Bouye", icon: BsGithub, color: "hover:text-white" },
                   { href: "https://www.linkedin.com/in/bouye-cheikh/", icon: BsLinkedin, color: "hover:text-blue-400" },
+                  { href: "https://www.instagram.com/0bouye0", icon: BsInstagram, color: "hover:text-pink-400" },
                   { href: "https://www.youtube.com/@CodeTella", icon: "youtube", color: "hover:text-red-400" },
                   { href: "mailto:cheikh.bouye@mail.ru", icon: BsEnvelope, color: "hover:text-red-400" }
                 ].map((social, index) => (
