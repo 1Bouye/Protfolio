@@ -28,7 +28,7 @@ export const fr = {
     title: "À propos de moi",
     subtitle: "Développeur full-stack passionné avec un amour pour créer des solutions innovantes et des expériences utilisateur exceptionnelles.",
     myStory: "Mon histoire",
-    story1: "Je suis Mohamed Bouye Cheikh Mohamed Vadel, un programmeur motivé avec une solide formation en informatique. Mon parcours a commencé à l'Université HSE de Moscou, où j'ai poursuivi mon diplôme de licence en informatique de 2022 à 2025, en me concentrant sur l'ingénierie logicielle et la programmation appliquée.",
+    story1: "Je suis Mohamed Bouye Cheikh Mohamed Vadel, un programmeur motivé avec une solide formation en informatique. Mon parcours a commencé à l'Université Financière de Moscou, où j'ai poursuivi mon diplôme de licence en informatique de 2022 à 2025, en me concentrant sur l'ingénierie logicielle et la programmation appliquée.",
     story2: "Je me spécialise dans le développement full-stack, le développement d'applications mobiles avec React Native, l'intégration IA/LLM et l'analyse de données. Avec une expérience pratique d'internats chez Yandex et Ozon, je construis des solutions complètes incluant des applications web, des applications mobiles et des systèmes alimentés par l'IA.",
     story3: "Basé en Mauritanie, je suis passionné par la création de solutions innovantes qui s'étendent des interfaces frontend aux API backend, applications mobiles et implémentations IA. Je crois au pouvoir de la technologie pour créer un impact significatif et suis toujours désireux de relever de nouveaux défis et collaborations.",
     downloadResume: "Télécharger le CV",
@@ -52,7 +52,7 @@ export const fr = {
     title: "Éducation",
     subtitle: "Mon parcours académique en informatique et ingénierie logicielle",
     degree: "Licence en Informatique",
-    university: "HSE Moscou (École Supérieure d'Économie)",
+    university: "Université Financière de Moscou",
     location: "Moscou, Russie",
     years: "2022 – 2025",
     skill1: "Développé la maîtrise de Python, C++ et Java pour le développement logiciel et l'implémentation d'algorithmes",
@@ -123,10 +123,10 @@ export const fr = {
     title: "Mes projets",
     academic: {
       title: "Projets académiques",
-      subtitle: "Projets développés pendant mes études à l'Université HSE",
+      subtitle: "Projets développés pendant mes études à l'Université Financière",
       project1: {
         title: "Système de Gestion de Cours Universitaire",
-        description: "Un projet académique complet développé pendant mes études à l'Université HSE. Comprend l'inscription aux cours, le suivi des notes, la soumission des devoirs et un portail de communication étudiant-enseignant."
+        description: "Un projet académique complet développé pendant mes études à l'Université Financière. Comprend l'inscription aux cours, le suivi des notes, la soumission des devoirs et un portail de communication étudiant-enseignant."
       },
       project2: {
         title: "Projet de Recherche en Analyse de Données",

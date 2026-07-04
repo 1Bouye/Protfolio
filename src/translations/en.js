@@ -28,7 +28,7 @@ export const en = {
     title: "About Me",
     subtitle: "Passionate full-stack developer with a love for creating innovative solutions and exceptional user experiences.",
     myStory: "My Story",
-    story1: "I'm Mohamed Bouye Cheikh Mohamed Vadel, a motivated programmer with a strong background in computer science. My journey began at HSE University in Moscow, where I pursued my Bachelor's Degree in Computer Science from 2022 to 2025, focusing on software engineering and applied programming.",
+    story1: "I'm Mohamed Bouye Cheikh Mohamed Vadel, a motivated programmer with a strong background in computer science. My journey began at Financial University in Moscow, where I pursued my Bachelor's Degree in Computer Science from 2022 to 2025, focusing on software engineering and applied programming.",
     story2: "I specialize in full-stack development, mobile app development with React Native, AI/LLM integration, and data analysis. With hands-on experience from internships at Yandex and Ozon, I build comprehensive solutions including web applications, mobile apps, and AI-powered systems.",
     story3: "Based in Mauritania, I'm passionate about creating innovative solutions that span from frontend interfaces to backend APIs, mobile applications, and AI implementations. I believe in the power of technology to create meaningful impact and am always eager to take on new challenges and collaborations.",
     downloadResume: "Download Resume",
@@ -52,7 +52,7 @@ export const en = {
     title: "Education",
     subtitle: "My academic journey in computer science and software engineering",
     degree: "Bachelor of Computer Science",
-    university: "HSE Moscow (Higher School of Economics)",
+    university: "Financial University in Moscow",
     location: "Moscow, Russia",
     years: "2022 – 2025",
     skill1: "Developed proficiency in Python, C++, and Java for software development and algorithm implementation",
@@ -123,10 +123,10 @@ export const en = {
     title: "My Projects",
     academic: {
       title: "Academic Projects",
-      subtitle: "Projects developed during my studies at HSE University",
+      subtitle: "Projects developed during my studies at Financial University",
       project1: {
         title: "University Course Management System",
-        description: "A comprehensive academic project developed during my studies at HSE University. Features course enrollment, grade tracking, assignment submission, and student-teacher communication portal."
+        description: "A comprehensive academic project developed during my studies at Financial University. Features course enrollment, grade tracking, assignment submission, and student-teacher communication portal."
       },
       project2: {
         title: "Data Analysis Research Project",
